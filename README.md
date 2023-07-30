@@ -1,2 +1,2 @@
 # c-learner
-learning c language
+learning how to code
